@@ -1,0 +1,2 @@
+# IoT-Based-Smart-Irrigation-System
+Nowadays, for irrigation, different techniques are available which are used to reduce the dependency of rain. And mostly this technique is driven by electrical power and on/off scheduling. In this technique, an temperature and humidity sensors are placed near the plant and near the module and gateway unit handles the sensor information and transmit data to the controller which in turns the control the flow of water through the pump.
